@@ -33,6 +33,7 @@ html, body, #wrap { min-height: 100%; }
 #sidebar_left { left: 0; }
 #sidebar_right { right: 0; }
 #contents_print { margin: 0 200px; padding: 30px; box-sizing: border-box; border-left: 1px solid #ddd; border-right: 1px solid #ddd; }
+a:link {text-decoration: none; color: #f30707;}
 </style>
 </head>
 <body>
